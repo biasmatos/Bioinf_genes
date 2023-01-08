@@ -1,0 +1,155 @@
+LOCUS       NG_016441               1714 bp    DNA     linear   PRI 19-FEB-2021
+DEFINITION  Homo sapiens melanocortin 4 receptor (MC4R), RefSeqGene (LRG_1346)
+            on chromosome 18.
+ACCESSION   NG_016441 REGION: 4994..6707
+VERSION     NG_016441.1
+KEYWORDS    RefSeq; RefSeqGene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff in
+            collaboration with LRG Consortium. The reference sequence was
+            derived from AC091576.11.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            Summary: The protein encoded by this gene is a membrane-bound
+            receptor and member of the melanocortin receptor family. The
+            encoded protein interacts with adrenocorticotropic and MSH hormones
+            and is mediated by G proteins. This is an intronless gene. Defects
+            in this gene are a cause of autosomal dominant obesity. [provided
+            by RefSeq, Jan 2010].
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-8438              AC091576.11        37801-46238         c
+FEATURES             Location/Qualifiers
+     source          1..1714
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="18"
+                     /map="18q21.32"
+     gene            1..1714
+                     /gene="MC4R"
+                     /gene_synonym="BMIQ20"
+                     /note="melanocortin 4 receptor"
+                     /db_xref="GeneID:4160"
+                     /db_xref="HGNC:HGNC:6932"
+                     /db_xref="MIM:155541"
+     mRNA            1..1714
+                     /gene="MC4R"
+                     /gene_synonym="BMIQ20"
+                     /product="melanocortin 4 receptor"
+                     /transcript_id="NM_005912.3"
+                     /db_xref="GeneID:4160"
+                     /db_xref="LRG:t1"
+                     /db_xref="HGNC:HGNC:6932"
+                     /db_xref="MIM:155541"
+     exon            1..1714
+                     /gene="MC4R"
+                     /gene_synonym="BMIQ20"
+                     /inference="alignment:Splign:2.1.0"
+                     /number=1
+     CDS             427..1425
+                     /gene="MC4R"
+                     /gene_synonym="BMIQ20"
+                     /note="MC4-R; mutant melanocortin-4 receptor"
+                     /codon_start=1
+                     /product="melanocortin receptor 4"
+                     /protein_id="NP_005903.2"
+                     /db_xref="CCDS:CCDS11976.1"
+                     /db_xref="GeneID:4160"
+                     /db_xref="LRG:p1"
+                     /db_xref="HGNC:HGNC:6932"
+                     /db_xref="MIM:155541"
+                     /translation="MVNSTHRGMHTSLHLWNRSSYRLHSNASESLGKGYSDGGCYEQL
+                     FVSPEVFVTLGVISLLENILVIVAIAKNKNLHSPMYFFICSLAVADMLVSVSNGSETI
+                     VITLLNSTDTDAQSFTVNIDNVIDSVICSSLLASICSLLSIAVDRYFTIFYALQYHNI
+                     MTVKRVGIIISCIWAACTVSGILFIIYSDSSAVIICLITMFFTMLALMASLYVHMFLM
+                     ARLHIKRIAVLPGTGAIRQGANMKGAITLTILIGVFVVCWAPFFLHLIFYISCPQNPY
+                     CVCFMSHFNLYLILIMCNSIIDPLIYALRSQELRKTFKEIICCYPLGGLCDLSSRY"
+     misc_feature    433..435
+                     /gene="MC4R"
+                     /gene_synonym="BMIQ20"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P32245.2); glycosylation site"
+     misc_feature    475..477
+                     /gene="MC4R"
+                     /gene_synonym="BMIQ20"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P32245.2); glycosylation site"
+     misc_feature    502..504
+                     /gene="MC4R"
+                     /gene_synonym="BMIQ20"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P32245.2); glycosylation site"
+     misc_feature    556..633
+                     /gene="MC4R"
+                     /gene_synonym="BMIQ20"
+                     /note="propagated from UniProtKB/Swiss-Prot (P32245.2);
+                     transmembrane region"
+     misc_feature    670..744
+                     /gene="MC4R"
+                     /gene_synonym="BMIQ20"
+                     /note="propagated from UniProtKB/Swiss-Prot (P32245.2);
+                     transmembrane region"
+     misc_feature    796..861
+                     /gene="MC4R"
+                     /gene_synonym="BMIQ20"
+                     /note="propagated from UniProtKB/Swiss-Prot (P32245.2);
+                     transmembrane region"
+     misc_feature    922..984
+                     /gene="MC4R"
+                     /gene_synonym="BMIQ20"
+                     /note="propagated from UniProtKB/Swiss-Prot (P32245.2);
+                     transmembrane region"
+     misc_feature    1000..1071
+                     /gene="MC4R"
+                     /gene_synonym="BMIQ20"
+                     /note="propagated from UniProtKB/Swiss-Prot (P32245.2);
+                     transmembrane region"
+     misc_feature    1171..1239
+                     /gene="MC4R"
+                     /gene_synonym="BMIQ20"
+                     /note="propagated from UniProtKB/Swiss-Prot (P32245.2);
+                     transmembrane region"
+     misc_feature    1267..1338
+                     /gene="MC4R"
+                     /gene_synonym="BMIQ20"
+                     /note="propagated from UniProtKB/Swiss-Prot (P32245.2);
+                     transmembrane region"
+ORIGIN      
+        1 aacactcaaa gcaacgctca ggctggaaac agaagcttcc gagaggcagc cgatgtgagc
+       61 atgtgcgcac agattcgtct cccaatggca tggcagcttc aaggaaaatt attttgaaca
+      121 gacttgaatg cataagatta aagttaaagc agaagtgaga acaagaaagc aaagagcaga
+      181 ctctttcaac tgagaatgaa tattttgaag cccaagattt taaagtgatg atgattagag
+      241 tcgtacctaa aagagactaa aaactccatg tcaagctctg gacttgtgac atttactcac
+      301 agcaggcatg gcaattttag cctcacaact ttcagacaga taaagacttg gaggaaataa
+      361 ctgagacgac tccctgaccc aggaggttaa atcaattcag ggggacactg gaattctcct
+      421 gccagcatgg tgaactccac ccaccgtggg atgcacactt ctctgcacct ctggaaccgc
+      481 agcagttaca gactgcacag caatgccagt gagtcccttg gaaaaggcta ctctgatgga
+      541 gggtgctacg agcaactttt tgtctctcct gaggtgtttg tgactctggg tgtcatcagc
+      601 ttgttggaga atatcttagt gattgtggca atagccaaga acaagaatct gcattcaccc
+      661 atgtactttt tcatctgcag cttggctgtg gctgatatgc tggtgagcgt ttcaaatgga
+      721 tcagaaacca ttgtcatcac cctattaaac agtacagata cggatgcaca gagtttcaca
+      781 gtgaatattg ataatgtcat tgactcggtg atctgtagct ccttgcttgc atccatttgc
+      841 agcctgcttt caattgcagt ggacaggtac tttactatct tctatgctct ccagtaccat
+      901 aacattatga cagttaagcg ggttgggatc atcataagtt gtatctgggc agcttgcacg
+      961 gtttcaggca ttttgttcat catttactca gatagtagtg ctgtcatcat ctgcctcatc
+     1021 accatgttct tcaccatgct ggctctcatg gcttctctct atgtccacat gttcctgatg
+     1081 gccaggcttc acattaagag gattgctgtc ctccccggca ctggtgccat ccgccaaggt
+     1141 gccaatatga agggagcgat taccttgacc atcctgattg gcgtctttgt tgtctgctgg
+     1201 gccccattct tcctccactt aatattctac atctcttgtc ctcagaatcc atattgtgtg
+     1261 tgcttcatgt ctcactttaa cttgtatctc atactgatca tgtgtaattc aatcatcgat
+     1321 cctctgattt atgcactccg gagtcaagaa ctgaggaaaa ccttcaaaga gatcatctgt
+     1381 tgctatcccc tgggaggcct ttgtgacttg tctagcagat attaaatggg gacagagcac
+     1441 gcaatatagg aacatgcata agagactttt tcactcttac cctacctgaa tattgtactt
+     1501 ctgcaacagc tttctcttcc gtgtagggta ctggttgaga atatccattg tgtaaattta
+     1561 agcctatgat ttttaatgag aaaaaatgcc cagtctctgt attatttcca atgtcatgct
+     1621 acttttttgg ccataaaata tgaatctatg ttataggttg taggcactgt ggatttacaa
+     1681 aaagaaaagt ccttattaaa agcttaacaa tgtc
+//
+
